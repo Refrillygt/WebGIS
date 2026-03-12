@@ -1,0 +1,1 @@
+var json_StasiunKeretaApi_11 = {"type":"FeatureCollection","name":"StasiunKeretaApi_11","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Stasiun":"Stasiun Kereta Api"},"geometry":{"type":"Point","coordinates":[100.372678573510427,-0.941434309537065]}}]}

@@ -1,0 +1,1 @@
+var json_PangkalanMiliter_10 = {"type":"FeatureCollection","name":"PangkalanMiliter_10","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Nama":"Yonif 133 Yudha Sakti"},"geometry":{"type":"Point","coordinates":[100.35288946360086,-0.899064341671859]}}]}

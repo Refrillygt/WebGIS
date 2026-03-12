@@ -1,0 +1,1 @@
+var json_BandarUdara_5 = {"type":"FeatureCollection","name":"BandarUdara_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Nama":"Bandar Udara Padang"},"geometry":{"type":"Point","coordinates":[100.352004640976048,-0.874832083993992]}}]}
